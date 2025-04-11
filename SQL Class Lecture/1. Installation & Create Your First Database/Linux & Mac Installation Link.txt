@@ -1,0 +1,5 @@
+
+PostgreSQL Download Link: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
+Linux: https://www.youtube.com/watch?v=tducLYZzElo
+Mac: https://www.youtube.com/watch?v=PShGF_udSpk
